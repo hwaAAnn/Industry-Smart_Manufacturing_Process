@@ -17,9 +17,9 @@
     <rect x="630" y="20" width="350" height="400" rx="8"/>
   </g>
   <g fill="#1f4e8c" font-size="15" font-weight="600" text-anchor="middle">
-    <text x="170" y="46">1. Monitoring &amp; Anomaly Detection</text>
+    <text x="170" y="46">1. Process Data &amp; Monitoring</text>
     <text x="475" y="46">2. Operating KPIs</text>
-    <text x="805" y="46">3. Operating-condition Optimization</text>
+    <text x="805" y="46">3. Set-point Recommendation</text>
   </g>
 
   <!-- boxes -->

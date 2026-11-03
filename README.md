@@ -1,4 +1,4 @@
-# Industry-Manufacturing Process MES
+# Smart Manufacturing Process
 
 An industry–academia project with a manufacturer on a continuous process: building the data-driven layer of a smart-factory **MES (Manufacturing Execution System)** that turns shop-floor process data into process monitoring, operating KPIs, and recommended operating set-points.
 
